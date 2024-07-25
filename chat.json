@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, here's an example sidebar with those navlinks:\n\n```\n<div class=\"sidebar\">\n  <nav>\n    <ul>\n      <li><a href=\"/\">Home</a></li>\n      <li><a href=\"/about\">About</a></li>\n      <li><a href=\"/contact\">Contact</a></li>\n    </ul>\n  </nav>\n</div>\n```\n\nYou can customize the CSS for this sidebar to fit your design.",
+        "message_id": "guest25072024063823",
+        "timestamp": "25072024063826",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with the navlinks home, about and contact",
         "message_id": "guest25072024063823",
